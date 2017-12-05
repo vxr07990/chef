@@ -1,0 +1,7 @@
+
+
+{
+  "id": "mysql",
+  "root_password": "password",
+  "admin_password":"password"
+}
